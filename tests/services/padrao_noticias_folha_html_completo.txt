@@ -1,0 +1,882 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Folha.com - Busca: bovespa</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
+<meta http-equiv="Cache-Control" content="no-store">
+<link rev="made" href="http://tools.folha.com.br/feedback/webmaster">
+<link rel="shortcut icon" type="image/x-icon" href="http://f.i.uol.com.br/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title='Folha.com - Primeiro jornal em tempo real em língua portuguesa' href='http://feeds.folha.uol.com.br/emcimadahora/rss091.xml'>
+<link rel="stylesheet" type="text/css" href="http://www1.folha.uol.com.br/folha/furniture/5/common/common-5_1.css?100817">
+<link rel="stylesheet" type="text/css" href="http://www1.folha.uol.com.br/folha/furniture/search/1/epoch_styles.css">
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/jquery.js"></script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/common-5_1.js?100817"></script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/search/1/epoch_classes.js"></script>
+<script type="text/javascript"><!--
+folha.information.section = 'search';
+
+function doOnLoad(){
+	var f = new Array(
+		'sd',
+		'ed'
+	) ;
+	for ( var i = 0 ; i < f.length ; i++ ){
+		if ( document.getElementById(f[i]) ){
+			var obj = document.getElementById(f[i]) ;
+			if ( obj.type == 'text' ){
+				f[i] = new Epoch('epoch_popup','popup', obj );
+			}
+		}
+	}
+	if( document.forms["searchLocal"] )
+		if ( document.searchLocal.q.value == "" )
+			document.searchLocal.q.focus() ;
+}
+//--></script>
+<style type="text/css"><!--
+#main_body #masthead .sprite	{ background-image: url("http://f.i.uol.com.br/folha/furniture/5/images/sprite-general.png"); background-position: -8px -664px; width: 110px; }
+h2.localSearchTarja { font: bold 18px verdana; color: #990000; border-top: 5px solid #990000; }
+h2.localSearchTarja span { font-size: 13px; font-weight: normal; vertical-align: middle; }
+p.localSearchNavigation { margin: 15px 0 15px 0; padding: 0; font: bold 12px arial; }
+span.url { color: #008000 }
+#main_body #searchLocal { padding:10px 0;}
+#searchLocal label { font-weight:bold; font-size:12px; }
+#searchLocal label.qLocal {padding-left:10px}
+#searchLocal #qLocal { width:415px; }
+#searchLocal #selectSiteLocal { width:200px; }
+#searchLocal #sd, #searchLocal #ed { width:105px; }
+#searchLocal label.selectSiteLocal {padding-left:4.5em}
+#searchLocal #selectSiteLocal {margin-right:20px}
+#searchLocal div { border-top:4px solid #cccccc; background-color:#dedede; padding:8px 0}
+
+#contextualAdsSearch { width:635px; }
+#contextualAdsSearch table { border:none; width:623px; }
+#contextualAdsSearch table td { width:50%; vertical-align:top; }
+#contextualAdsSearch div.contextualAds { margin:0 0 15px 0; padding:5px; border:1px solid #CCCCCC; }
+#contextualAdsSearch div.contextualAds table td p { margin:0; padding:5px}
+#contextualAdsSearch div.contextualAds table td a { text-decoration:none !important }
+#ad-300x250-2 { margin-top:0 }
+
+--></style>
+</head>
+
+<body onLoad="doOnLoad();">
+<div id="aligner">
+
+<div id="main_body" class="busca">
+<div id="uol_bar_container"><script type="text/javascript" src="http://barra.uol.com.br/b/scripts/1024/bv1folha.js"></script></div>
+
+<div id="top_ads">
+<div id="ad-728x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-220x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+</div>
+
+<div id="header">
+<a class="logo sprite" href="http://www.folha.uol.com.br">&nbsp;</a>
+
+<div class="services">
+<div id="weather">
+<div class="information"><span class="date">17 de outubro de 2011 - 10:05</span>
+<a href="http://tempo.folha.com.br" class="moreCity">PREVISÃO DO TEMPO</a></div>
+<div class="temperature">&nbsp;
+</div>
+
+</div><form action="http://search.folha.com.br" id="search" method="get"><div><input name="q" type="text" value=""> <select name="site"id="selectSite"><option value="">&nbsp;</option><option value="online">Folha.com</option><option value="jornal">Folha de S.Paulo</option><option value="online/guia">Guia Folha</option></select> <input class="submit" name="submit" type="submit" value="Buscar"></div></form></div>
+<ul class="classified_nav">
+<li><a href="http://classificados.folha.com.br/" class="first">Classificados</a></li>
+<li><a href="http://classificados.folha.com.br/veiculos">Veículos</a></li>
+<li><a href="http://classificados.folha.com.br/imoveis">Imóveis</a></li>
+<li><a href="http://classificados.folha.com.br/empregos">Empregos</a></li>
+<li><a href="http://classificados.folha.com.br/negocios">Negócios</a></li>
+</ul><div class="flags">
+	<ul class="flags_nav">
+		<li><a href="http://www1.folha.uol.com.br/internacional/en/"><span class="sprite en">&nbsp;</span>ENGLISH</a></li>
+		<li><a href="http://www1.folha.uol.com.br/internacional/es/"><span class="sprite es">&nbsp;</span>ESPAÑOL</a></li>
+	</ul>
+</div>
+<div id="top_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a>  <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www1.folha.uol.com.br/bichos/">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://f5.folha.uol.com.br/">Celebridades</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+
+<!--//--></div>
+
+<!-- // -->
+</div>
+<div id="masthead">
+<div class="canvas">&nbsp;</div>
+<a href="./" class="sprite section busca"></a>
+</div>
+
+<div id="articleNew" class="double_column">
+<!--FORM-->
+<form action="http://search.folha.com.br/search" method="get" name="searchLocal" id="searchLocal">
+<div class="search">
+<label for="qLocal" class="qLocal">Procurar por</label> <input type="text" name="q" id="qLocal" size="66" value="bovespa">
+<input type="submit" value="Buscar" class="inputButton">
+</div>
+
+<div class="detailedSearch">
+<label for="selectSiteLocal" class="selectSiteLocal">Seção</label>
+<select name="site" id="selectSiteLocal">
+<option value="">&nbsp;</option>
+<option selected value="online">Folha.com</option>
+<option value="jornal">Folha de S.Paulo</option>
+<option value="online/ambiente">Folha.com - Ambiente</option>
+<option value="online/bbc">Folha.com - BBC</option>
+<option value="online/bichos">Folha.com - Bichos</option>
+<option value="online/brasil">Folha.com - Poder</option>
+<option value="online/ciencia">Folha.com - Ciência</option>
+<option value="online/comida">Folha.com - Comida</option>
+<option value="online/cotidiano">Folha.com - Cotidiano</option>
+<option value="online/dinheiro">Folha.com - Mercado</option>
+<option value="online/dw">Folha.com - DW</option>
+<option value="online/educacao">Folha.com - Saber</option>
+<option value="online/equilibrio">Folha.com - Equilíbrio e Saúde</option>
+<option value="online/esporte">Folha.com - Esporte</option>
+<option value="online/ilustrada">Folha.com - Ilustrada</option>
+<option value="online/ilustrissima">Folha.com - Ilustríssima</option>
+<option value="online/informatica">Folha.com - Tec</option>
+<option value="online/mundo">Folha.com - Mundo</option>
+<option value="online/folhateen">Folha.com - Folhateen</option>
+<option value="online/folhinha">Folha.com - Folhinha</option>
+<option value="online/saopaulo">Folha.com - São Paulo</option>
+<option value="online/pensata">Folha.com - Colunas</option>
+<option value="online/podcasts">Folha.com - Podcasts</option>
+<option value="online/turismo">Folha.com - Turismo</option>
+<option value="online/videocasts">Folha.com - Videocasts</option>
+<option value="online/livrariadafolha">Livraria da Folha</option>
+<option value="online/publifolha">Publifolha</option>
+<option value="online/guia">Guia Folha</option>
+<option value="agora">Agora</option>
+<option value="online/folha90anos">Folha 90 Anos</option>
+<option value="classificados">Classificados</option>
+<option value="classificados/empregos">Classificados - Empregos</option>
+<option value="classificados/imoveis">Classificados - Imóveis</option>
+<option value="classificados/negocios">Classificados - Negócios</option>
+<option value="classificados/veiculos">Classificados - Veículos</option>
+<option value="f5">F5</option>
+</select>
+<label for="sd" class="sd">De</label>
+<input type="text" id="sd" name="sd" size="14" maxlength="12" value="">
+<label for="ed" class="ed">até</label>
+<input type="text" id="ed" name="ed" size="14" maxlength="12" value="">
+</div>
+</form>
+<!--/FORM-->
+
+
+
+<!--CONTEXTUAL_ADS-->
+<div id="contextualAdsSearch"><p class="adsKicker">PUBLICIDADE</p>
+<div class="contextualAds">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg151SoZamwr%2Dqc7zMTeuEwF8axca598JoBpV7H9AawUJCDe1%2DbKLJmMJ8T%2Dhn5xiBkP%2DQ%5FKUQKvr5nvqPFQ2NQVeJGur4yt2awIk1M6ioXdJCh%5FMa%5FrXknINPNXoGZWm32eqOgq7BId74P2gav4IGxB2PjqktzM60wOEZE77b2FF%5F7Q2FLMlbuek%5F0J7OKp56ObNRCtzqklKWdJhGv8okw%2DCkbhAiACqh524N2V%5FyVkV6t%5FHAeokXuLPyhI6QYf38mNlIOhCepqslvV3WmGjMnJJ6Bj%2DakYNpsggJSq3qMW3Q3lRz8P%2Dw3rC0ap8M9m3zX52dGnnhMBp2fVMgCBvdARbTJ2c%2D4xqDZcQEfMm4q2X%5FMPbGPRlvb1IXvpq5OdBX7gzp%5Fgo%2E"><b>Bovespa</b></a>Investir em Ações Ficou Mais Fácil. Conheça a Wintrade. Faça um Teste.</p></td>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14VSnJamwryqfbrKSeCCwl8Egszv%5F8psDJl9GtVc82Q8De18aqrGmcd7Se1m%2DF%2DNwPaT%5FKARLfL5mPmLEguIQVCJG%2DfpjdLJxYg5M6moXdQfsYRzy%2D7rn4BHO3YF1laBYpKzmO3MNoe4Mn1C%5FplwlV6U%5FPJtxMu2wuMaEbPOiQN1qQOAaI1Vv60qhb%2DwKJ58T8FUC9mdlyDiZs0TxtwloN2MPyMRKSrR4R1%2D31%2DWez15p7DMeowXuL35hI6cafWsyNQMNALGt7Qy%5Fk%5FD0WetjJJ7Bkqg375YlkhVHKaqP2aF2WR96sGcz52TdIB173SiQdqIT3z1dxMhxHFIEa7vOEOPZ2w89E%5FBMqUBMfmXsi6%5FFuDPACExM14AzuOE">Rastreador de Ações do <b>Bovespa</b></a>Rastreador automático de candlestick, suporte e resistência, figuras...</p></td>
+</tr>
+<tr>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14BShZamwryqc7XKT%2DeGxVgNgszv%5F8xnD5B8FtRb8nB7ALxyb6DCksx%2DSuxu7w7GnK%2DZ%2DqcTLPL42M66IQ%2DLQFSJGer5yt2awI41P6qgUNdCh%2D8a%5FrXknIFJOHkGYWez1eOOgq7BIdb5P2gav4IAyx2PjqktzM63xOIXGLLY2ld%2D7Q2FLMlbuek%5F0J7OKp56ObNRCtzqklKWdJhGv8okw%2DCkbhBuCBuH5W5%5FryjyUTVp%5FqPLepEIv7bvm4eQd%2DL5nM8PP0nBq7I2q17H3y%5FI0ZNTc2KauYN7xlMFTb2tNzeL11d3%2DcGNzp2YarMr42y5GIjUH2emOU94ahQr6pfaf1jeMzB%2Doy7BMqUBMfmXsi6%5FFuDPACExM14AzuOE">Invista na Bolsa</a>Opere no mercado financeiro com segurança. Acesse e abra sua conta!</p></td>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14VSnJamwryqdb%5FATuqHwl4Lgszv%5F8puDZN7F9Vc82Q8De19aKDDk8J%2DSe1m%2DF%2DNwPeX9a4XKff%5Fn%5FyKFAmOQ1GMGOTpjdLJzIk9M66kX9j7sYtzy%2DnqmoJINHYFZzaJScn%2Dk%2D%5FLIMCofnNK%2D48VvkXa8PBtyM2yzeMXF73ZzgMp9g6LddISvPIkgsiwWpsNP7cmfq2ZlyKQBIoRmNF1wN2UFiERKyqjl2p%2D2C%2DFMm9yp6jTfYkKp7T5kpGZbePrzY1TORvVobcjuQjHnGaE%2Dc97Lkqyq%2DVUkVgSGvzxNmWB0FpA%2Duywz7G0YYE%5FqGHrRMTPRin6ZVQqJv1FYeDkPEOPZyAMpF%2D3NNV2SIGj%2DzXvSbyHG3EqY3Ix3w%2E%2E">Aprenda a Operar Forex de Maneira Profissional.</a>Análise Fundamentalista/Técnica, Gerenciamento Capital/Risco/Emoções.</p></td>
+</tr>
+</table>
+</div>
+</div>
+<!--/CONTEXTUAL_ADS-->
+
+<!--BEST_BETS-->
+<h2 class="localSearchTarja">notícias recomendadas</h2>
+<p>
+<b><a href="http://www1.folha.uol.com.br/folha/dinheiro/ult91u116800.shtml">Entenda o Ibovespa</a></b><br>
+O Ibovespa, que corresponde a mais de 90% do volume financeiro diário da Bolsa de Valores de São Paulo, é o principal índice do mercado de ações do país.</p>
+<p class="localSearchNavigation">
+<!--/BEST_BETS-->
+
+<!--RESULTSET-->
+<h2 class="localSearchTarja">resultados <span>(1 - 25 de 55.212)</span></h2>
+<p>
+<b>1.</b> <a href="http://www1.folha.uol.com.br/mercado/990889-horario-de-verao-faz-bmfbovespa-abrir-mais-tarde.shtml">Folha.com - Mercado - Horário de verão faz BM&FBovespa abrir mais tarde - 17/10/2011</a><br>
+... horários de funcionamento do mercado de capitais brasileiro a partir desta segunda-feira. O pregão regular da <b>Bovespa</b> (Bolsa de Valores de São Paulo) passa a funcionar das 11h (hora  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...fbovespa-abrir-mais-tarde.shtml</span>
+</p>
+<p>
+<b>2.</b> <a href="http://www1.folha.uol.com.br/mercado/990959-conselho-da-vale-aprova-remuneracao-minima-aos-acionistas.shtml">Folha.com - Mercado - Conselho da Vale aprova remuneração mínima aos acionistas - 14/10/2011</a><br>
+... remuneração ao acionista. A "record date" para as ações de emissão da Vale negociadas na BM&F <b>Bovespa</b> é o dia 14 de outubro de 2011, enquanto para os ADRs negociados na Bolsa de  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...cao-minima-aos-acionistas.shtml</span>
+</p>
+<p>
+<b>3.</b> <a href="http://www1.folha.uol.com.br/mercado/990884-bovespa-abre-mais-tarde-a-partir-desta-segunda.shtml">Folha.com - Mercado - <b>Bovespa</b> abre mais tarde a partir desta segunda - 14/10/2011</a><br>
+... 14/10/2011 18h47 <b>Bovespa</b> abre mais tarde a partir desta segunda DE SÃO PAULO O início do horário de verão vai alterar os horários de funcionamento do mercado de capitais brasileiro a  ... horários de funcionamento do mercado de capitais brasileiro a partir desta segunda-feira. O pregão regular da <b>Bovespa</b> (Bolsa de Valores de São Paulo) passa a funcionar das 11h (hora  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...de-a-partir-desta-segunda.shtml</span>
+</p>
+<p>
+<b>4.</b> <a href="http://www1.folha.uol.com.br/mercado/990741-dolar-completa-8-dias-de-baixa-e-volta-para-r-173.shtml">Folha.com - Mercado - Dólar completa 8 dias de baixa e volta para R$ 1,73 - 14/10/2011</a><br>
+... Inflação na zona do euro é a maior desde 2008 Entenda por que o dólar ficou mais caro Ainda operando, a <b>Bovespa</b> registra ganhos de 0,70%, aos 54.981 pontos. O giro financeiro é  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...-baixa-e-volta-para-r-173.shtml</span>
+</p>
+<p>
+<b>5.</b> <a href="http://www1.folha.uol.com.br/esporte/990729-brasileira-e-cortada-por-doping-e-deve-perder-recorde.shtml">Folha.com - Esporte - Brasileira é cortada por doping e deve perder recorde - 14/10/2011</a><br>
+... DEMITIDA Após o anúncio da CBAt, Simone teve também seu contrato rescindido com o Clube de Atletismo BM&F/<b>Bovespa</b>. "O Clube de Atletismo BM&;F/<b>Bovespa</b> informa que segue  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/es...ing-e-deve-perder-recorde.shtml</span>
+</p>
+<p>
+<b>6.</b> <a href="http://www1.folha.uol.com.br/mercado/990647-bovespa-sobe-048-e-ensaia-firmar-alta-dolar-bate-r-173.shtml">Folha.com - Mercado - <b>Bovespa</b> sobe 0,48% e ensaia firmar alta; dólar bate R$ 1,73 - 14/10/2011</a><br>
+... 14/10/2011 14h23 <b>Bovespa</b> sobe 0,48% e ensaia firmar alta; dólar bate R$ 1,73 DE SÃO PAULO O mercado brasileiro de ações sustenta um ganho moderado na rodada de negócios desta sexta- ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...mar-alta-dolar-bate-r-173.shtml</span>
+</p>
+<p>
+<b>7.</b> <a href="http://www1.folha.uol.com.br/mercado/990598-instavel-bovespa-tem-alta-modesta-dolar-marca-r-174.shtml">Folha.com - Mercado - Instável, <b>Bovespa</b> tem alta modesta; dólar marca R$ 1,74 - 14/10/2011</a><br>
+... 14/10/2011 12h21 Instável, <b>Bovespa</b> tem alta modesta; dólar marca R$ 1,74 DE SÃO PAULO Enquanto as Bolsas europeias e americanas sobem mais de 1%, a brasileira <b>Bovespa</b> (Bolsa de  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...modesta-dolar-marca-r-174.shtml</span>
+</p>
+<p>
+<b>8.</b> <a href="http://www1.folha.uol.com.br/mercado/990548-bovespa-avanca-050-dolar-recua-para-r-173.shtml">Folha.com - Mercado - <b>Bovespa</b> avança 0,50%; dólar recua para R$ 1,73 - 14/10/2011</a><br>
+... 14/10/2011 10h25 <b>Bovespa</b> avança 0,50%; dólar recua para R$ 1,73 DE SÃO PAULO Investidores fazem o balanço entre notícias positivas e negativas na manhã desta sexta-feira, e pendem  ... e pendem para o primeiro lado: enquanto as principais Bolsas europeias sobem mais de 1%, a brasileira <b>Bovespa</b> (Bolsa de Valores de São Paulo) também oscila em terreno positivo.  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...50-dolar-recua-para-r-173.shtml</span>
+</p>
+<p>
+<b>9.</b> <a href="http://www1.folha.uol.com.br/mercado/990197-bovespa-emenda-terceiro-dia-de-ganhos-e-sobe-14-no-fechamento.shtml">Folha.com - Mercado - <b>Bovespa</b> emenda terceiro dia de ganhos e sobe 1,4% no fechamento - 13/10/2011</a><br>
+... 13/10/2011 17h49 <b>Bovespa</b> emenda terceiro dia de ganhos e sobe 1,4% no fechamento EPAMINONDAS NETO DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) reiniciou a semana se  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...s-e-sobe-14-no-fechamento.shtml</span>
+</p>
+<p>
+<b>10.</b> <a href="http://www1.folha.uol.com.br/mercado/990161-em-setimo-dia-de-baixa-dolar-fecha-a-r-175-bovespa-sobe-14.shtml">Folha.com - Mercado - Em sétimo dia de baixa, dólar fecha a R$ 1,75; <b>Bovespa</b> sobe 1,4% - 13/10/2011</a><br>
+... 13/10/2011 16h56 Em sétimo dia de baixa, dólar fecha a R$ 1,75; <b>Bovespa</b> sobe 1,4% DE SÃO PAULO Atualizado às 19h28 . Em seu sétimo dia consecutivo de baixa, a taxa de câmbio  ... por R$ 1,860 (baixa de 0,53%) e comprado por R$ 1,680 nas casas de câmbio paulistas. No fechamento, a <b>Bovespa</b> apresentou alta de 1,42%, aos 54.601 pontos. O giro financeiro foi  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...a-a-r-175-bovespa-sobe-14.shtml</span>
+</p>
+<p>
+<b>11.</b> <a href="http://www1.folha.uol.com.br/mercado/990067-bovespa-esboca-recuperacao-dolar-recua-para-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> esboça recuperação; dólar recua para R$ 1,74 - 13/10/2011</a><br>
+... 13/10/2011 14h14 <b>Bovespa</b> esboça recuperação; dólar recua para R$ 1,74 DE SÃO PAULO O mercado brasileiro de ações mostra volatilidade, e ensaia uma recuperação na jornada desta quinta- ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...ao-dolar-recua-para-r-174.shtml</span>
+</p>
+<p>
+<b>12.</b> <a href="http://www1.folha.uol.com.br/mercado/990014-bovespa-cai-09-com-perdas-nos-eua-e-europa-dolar-vale-r-175.shtml">Folha.com - Mercado - <b>Bovespa</b> cai 0,9% com perdas nos EUA e Europa; dólar vale R$ 1,75 - 13/10/2011</a><br>
+... 13/10/2011 12h20 <b>Bovespa</b> cai 0,9% com perdas nos EUA e Europa; dólar vale R$ 1,75 DE SÃO PAULO O mercado brasileiro de ações sustentou por pouco tempo o viés de recuperação na  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...e-europa-dolar-vale-r-175.shtml</span>
+</p>
+<p>
+<b>13.</b> <a href="http://www1.folha.uol.com.br/mercado/989755-bovespa-ganha-080-na-abertura-dolar-cede-para-r-175.shtml">Folha.com - Mercado - <b>Bovespa</b> ganha 0,80% na abertura; dólar cede para R$ 1,75 - 13/10/2011</a><br>
+... 13/10/2011 10h18 <b>Bovespa</b> ganha 0,80% na abertura; dólar cede para R$ 1,75 DE SÃO PAULO As ações brasileiras valorizam desde os primeiros negócios desta quinta-feira, na contramão do  ... que reflete os preços dos papéis mais movimentados, sobe 0,80%, aos 54.267 pontos. Na terça-feira, a <b>Bovespa</b> fechou em alta de 1%. O dólar comercial é negociado por R$ 1,750 nas  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...ura-dolar-cede-para-r-175.shtml</span>
+</p>
+<p>
+<b>14.</b> <a href="http://www1.folha.uol.com.br/poder/989350-governo-calcula-que-dolar-ira-a-r-2-no-inicio-de-2012.shtml">Folha.com - Poder - Governo calcula que dólar irá a R$ 2 no início de 2012 - 12/10/2011</a><br>
+... UOL, empresa controlada pelo Grupo Folha, que edita a Folha Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% Economistas esperam nova redução na taxa de juros Brasil  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/po...a-a-r-2-no-inicio-de-2012.shtml</span>
+</p>
+<p>
+<b>15.</b> <a href="http://www1.folha.uol.com.br/mercado/989125-bovespa-avanca-1-no-fechamento-em-dia-marcado-por-cautela.shtml">Folha.com - Mercado - <b>Bovespa</b> avança 1% no fechamento, em dia marcado por cautela - 11/10/2011</a><br>
+... 11/10/2011 17h47 <b>Bovespa</b> avança 1% no fechamento, em dia marcado por cautela EPAMINONDAS NETO DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) teve um dia de recuperação  ... Eslováquia rejeita ampliar fundo de resgate financeiro europeu Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% Entenda por que o dólar ficou mais caro As Bolsas  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...m-dia-marcado-por-cautela.shtml</span>
+</p>
+<p>
+<b>16.</b> <a href="http://www1.folha.uol.com.br/mercado/989073-dolar-fecha-a-r-175-em-sexto-dia-de-baixa-bovespa-sobe-1.shtml">Folha.com - Mercado - Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% - 11/10/2011</a><br>
+... 11/10/2011 16h39 Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% DE SÃO PAULO Atualizado às 17h09 . O dólar comercial foi negociado por R$ 1,759, em baixa de 0, ... vendido por R$ 1,870 (estável) e comprado por R$ 1,690 nas casas de câmbio paulistas. Ainda operando, a <b>Bovespa</b> sobe 1,06%, aos 53.836 pontos. O giro financeiro é de R$ 5,50  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...a-de-baixa-bovespa-sobe-1.shtml</span>
+</p>
+<p>
+<b>17.</b> <a href="http://www1.folha.uol.com.br/mercado/988951-bovespa-esboca-recuperacao-dolar-vale-r-176.shtml">Folha.com - Mercado - <b>Bovespa</b> esboça recuperação; dólar vale R$ 1,76 - 11/10/2011</a><br>
+... 11/10/2011 12h26 <b>Bovespa</b> esboça recuperação; dólar vale R$ 1,76 DE SÃO PAULO A Bolsa de Valores, após uma abertura em tom negativo, ensaia recuperação na jornada de negócios desta  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...uperacao-dolar-vale-r-176.shtml</span>
+</p>
+<p>
+<b>18.</b> <a href="http://www1.folha.uol.com.br/mercado/988862-bovespa-cede-051-na-abertura-dolar-atinge-r-177.shtml">Folha.com - Mercado - <b>Bovespa</b> cede 0,51% na abertura; dólar atinge R$ 1,77 - 11/10/2011</a><br>
+... 11/10/2011 10h15 <b>Bovespa</b> cede 0,51% na abertura; dólar atinge R$ 1,77 DE SÃO PAULO A Bolsa de Valores brasileira opera em terreno negativo desde os primeiros negócios desta terça- ... negócios desta terça-feira. O índice doméstico de ações Ibovespa recua 0,51%, aos 53.000 pontos. Ontem, a <b>Bovespa</b> fechou em forte alta de 3,96%. O dólar comercial é negociado por  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...ertura-dolar-atinge-r-177.shtml</span>
+</p>
+<p>
+<b>19.</b> <a href="http://www1.folha.uol.com.br/mercado/988485-bovespa-registra-maior-alta-em-2-meses-mas-em-dia-de-giro-fraco.shtml">Folha.com - Mercado - <b>Bovespa</b> registra maior alta em 2 meses mas em dia de giro fraco - 10/10/2011</a><br>
+... 10/10/2011 17h28 <b>Bovespa</b> registra maior alta em 2 meses mas em dia de giro fraco EPAMINONDAS NETO DE SÃO PAULO Há dois meses a <b>Bovespa</b> (Bolsa de Valores de São Paulo) não registrava  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...-mas-em-dia-de-giro-fraco.shtml</span>
+</p>
+<p>
+<b>20.</b> <a href="http://www1.folha.uol.com.br/mercado/988434-em-sessao-esvaziada-dolar-alcanca-r-176-bovespa-ganha-29.shtml">Folha.com - Mercado - Em sessão esvaziada, dólar alcança R$ 1,76; <b>Bovespa</b> ganha 2,9% - 10/10/2011</a><br>
+... 10/10/2011 16h31 Em sessão esvaziada, dólar alcança R$ 1,76; <b>Bovespa</b> ganha 2,9% DE SÃO PAULO Atualizado às 17h05 . O dólar comercial (referência para exportações e importações) ... Mercado eleva previsão para inflação em 2012 Entenda por que o dólar ficou mais caro Ainda operando, a <b>Bovespa</b> (Bolsa de Valores de São Paulo) registra ganhos de 2,97%, aos 52.766  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...ca-r-176-bovespa-ganha-29.shtml</span>
+</p>
+<p>
+<b>21.</b> <a href="http://www1.folha.uol.com.br/mercado/988358-acionista-principal-aumenta-oferta-por-acoes-do-uol.shtml">Folha.com - Mercado - Acionista principal aumenta oferta por ações do UOL - 10/10/2011</a><br>
+... fechar o capital da companhia. Fechar o capital de uma empresa significa retirar os papéis em negociação na <b>Bovespa</b> (Bolsa de Valores de São Paulo). A diretoria do UOL também  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...a-oferta-por-acoes-do-uol.shtml</span>
+</p>
+<p>
+<b>22.</b> <a href="http://www1.folha.uol.com.br/mercado/988343-bovespa-avanca-mais-de-3-e-dolar-marca-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> avança mais de 3% e dólar marca R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 13h55 <b>Bovespa</b> avança mais de 3% e dólar marca R$ 1,74 "DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) tem uma sessão de forte alta, de olho nas Bolsas americanas  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...-de-3-e-dolar-marca-r-174.shtml</span>
+</p>
+<p>
+<b>23.</b> <a href="http://www1.folha.uol.com.br/mercado/988359-erramos-bovespa-sobe-22-em-dia-de-poucos-negocios-dolar-bate-r-174.shtml">Folha.com - Mercado - Erramos: <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 12h33 Erramos: <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 DE SÃO PAULO Diferentemente do informado em "<b>Bovespa</b> sobe 2,2% em dia de poucos negócios; ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...negocios-dolar-bate-r-174.shtml</span>
+</p>
+<p>
+<b>24.</b> <a href="http://www1.folha.uol.com.br/mercado/988291-bovespa-sobe-22-em-dia-de-poucos-negocios-dolar-bate-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 11h59 <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 DE SÃO PAULO Atualizado às 12h21 . A perspectiva de um novo plano europeu anima os investidores na  ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...negocios-dolar-bate-r-174.shtml</span>
+</p>
+<p>
+<b>25.</b> <a href="http://www1.folha.uol.com.br/mercado/988240-bovespa-ganha-150-na-abertura-dolar-vale-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> ganha 1,50% na abertura; dólar vale R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 10h19 <b>Bovespa</b> ganha 1,50% na abertura; dólar vale R$ 1,74 DE SÃO PAULO O mercado brasileiro de ações inicia os negócios desta segunda-feira em terreno positivo, ... Ibovespa, o termômetro dos negócios da Bolsa paulista, avança 1,50%, aos 52.010 pontos. Na sexta-feira, a <b>Bovespa</b> fechou em queda de 2%. O dólar comercial é negociado por R$ 1, ... <br>
+ <span class="url">http://www1.folha.uol.com.br/me...abertura-dolar-vale-r-174.shtml</span>
+</p>
+<p>Mais resultados: <b>1</b> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=26">2</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=51">3</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=76">4</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=101">5</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=126">6</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=151">7</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=176">8</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=201">9</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=226">10</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=26">Próximas</a></p><p>Tente a busca por "<b>bovespa</b>" na <a href="http://search.folha.com.br/search?q=bovespa&amp;site=jornal&amp;sr=1">Folha de S.Paulo</a></p>
+<!--/RESULTSET-->
+
+</div>
+
+<div class="spacer">&nbsp;</div>
+<div class="column">
+</div>
+<hr>
+
+<!--noindex-->
+<div id="bottom_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a>  <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www1.folha.uol.com.br/bichos/">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://f5.folha.uol.com.br/">Celebridades</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+
+<!--//--></div>
+
+<p id="about_us"><a href="http://www1.folha.uol.com.br/institucional/">Sobre a Folha</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/expediente/">Expediente</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/falecomagente/">Fale Conosco</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/mapa/">Mapa do Site</a> | <a href="http://www1.folha.uol.com.br/folha/ombudsman/">Ombudsman</a> | <a href="http://www1.folha.uol.com.br/erramos/">Erramos</a> <br> <a href="http://atendefolha.folha.com.br/">Atendimento ao Assinante</a> | <a href="http://clubefolha.folha.com.br/">ClubeFolha</a> | <a href="http://publifolha.folha.com.br/">PubliFolha</a> | <a href="http://bd.folha.uol.com.br/">Banco de Dados</a> | <a href="http://datafolha.folha.uol.com.br/">Datafolha</a> | <a href="http://www.folhapress.com.br/">FolhaPress</a> | <a href="http://www1.folha.uol.com.br/folha/treinamento/">Treinamento</a> | <a href="http://www1.folha.uol.com.br/folha/trabalhe/vagas.html">Trabalhe na Folha</a> | <a href="http://www.publicidade.folha.com.br/">Publicidade</a></p>
+<p id="copyright">Copyright Folha.com. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicaçao, eletrônico ou impresso, sem autorização escrita da Folha.com.</p>
+</div>
+
+</div>
+
+<!--PUBLICIDADE-->
+<script type="text/javascript">folha.ads.clean = $.noop;</script>
+
+<div id="ad-728x90-1-content">
+<script type="text/javascript">folha.advertising.get('728x90-1');</script>
+</div>
+
+<div id="ad-220x90-1-content">
+<script type="text/javascript">folha.advertising.get('220x90-1');</script>
+</div>
+
+<!--/PUBLICIDADE-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6263320-52");
+pageTracker._trackPageview();
+var pageTracker = _gat._getTracker("UA-6263320-25");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture.js"></script>
+<script type="text/javascript">
+omniture.meta['site'] = location.href.match(/site/) ? location.href.replace(/^.+site=(.+?)(&.+|$)/, '$1') : 'home';
+omniture.meta['query'] = $('#qLocal').val() || 'null';
+</script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture-data.js"></script>
+<script type="text/javascript" src="http://me.jsuol.com/omtr/folhacom.js"></script>
+
+<!--/noindex-->
+
+<!--
+-->
+
+</body>
+</html>
+
+response = <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Folha.com - Busca: bovespa</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
+<meta http-equiv="Cache-Control" content="no-store">
+<link rev="made" href="http://tools.folha.com.br/feedback/webmaster">
+<link rel="shortcut icon" type="image/x-icon" href="http://f.i.uol.com.br/favicon.ico">
+<link rel="alternate" type="application/rss+xml" title='Folha.com - Primeiro jornal em tempo real em língua portuguesa' href='http://feeds.folha.uol.com.br/emcimadahora/rss091.xml'>
+<link rel="stylesheet" type="text/css" href="http://www1.folha.uol.com.br/folha/furniture/5/common/common-5_1.css?100817">
+<link rel="stylesheet" type="text/css" href="http://www1.folha.uol.com.br/folha/furniture/search/1/epoch_styles.css">
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/jquery.js"></script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/common-5_1.js?100817"></script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/search/1/epoch_classes.js"></script>
+<script type="text/javascript"><!--
+folha.information.section = 'search';
+
+function doOnLoad(){
+	var f = new Array(
+		'sd',
+		'ed'
+	) ;
+	for ( var i = 0 ; i < f.length ; i++ ){
+		if ( document.getElementById(f[i]) ){
+			var obj = document.getElementById(f[i]) ;
+			if ( obj.type == 'text' ){
+				f[i] = new Epoch('epoch_popup','popup', obj );
+			}
+		}
+	}
+	if( document.forms["searchLocal"] )
+		if ( document.searchLocal.q.value == "" )
+			document.searchLocal.q.focus() ;
+}
+//--></script>
+<style type="text/css"><!--
+#main_body #masthead .sprite	{ background-image: url("http://f.i.uol.com.br/folha/furniture/5/images/sprite-general.png"); background-position: -8px -664px; width: 110px; }
+h2.localSearchTarja { font: bold 18px verdana; color: #990000; border-top: 5px solid #990000; }
+h2.localSearchTarja span { font-size: 13px; font-weight: normal; vertical-align: middle; }
+p.localSearchNavigation { margin: 15px 0 15px 0; padding: 0; font: bold 12px arial; }
+span.url { color: #008000 }
+#main_body #searchLocal { padding:10px 0;}
+#searchLocal label { font-weight:bold; font-size:12px; }
+#searchLocal label.qLocal {padding-left:10px}
+#searchLocal #qLocal { width:415px; }
+#searchLocal #selectSiteLocal { width:200px; }
+#searchLocal #sd, #searchLocal #ed { width:105px; }
+#searchLocal label.selectSiteLocal {padding-left:4.5em}
+#searchLocal #selectSiteLocal {margin-right:20px}
+#searchLocal div { border-top:4px solid #cccccc; background-color:#dedede; padding:8px 0}
+
+#contextualAdsSearch { width:635px; }
+#contextualAdsSearch table { border:none; width:623px; }
+#contextualAdsSearch table td { width:50%; vertical-align:top; }
+#contextualAdsSearch div.contextualAds { margin:0 0 15px 0; padding:5px; border:1px solid #CCCCCC; }
+#contextualAdsSearch div.contextualAds table td p { margin:0; padding:5px}
+#contextualAdsSearch div.contextualAds table td a { text-decoration:none !important }
+#ad-300x250-2 { margin-top:0 }
+
+--></style>
+</head>
+
+<body onLoad="doOnLoad();">
+<div id="aligner">
+
+<div id="main_body" class="busca">
+<div id="uol_bar_container"><script type="text/javascript" src="http://barra.uol.com.br/b/scripts/1024/bv1folha.js"></script></div>
+
+<div id="top_ads">
+<div id="ad-728x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-220x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+</div>
+
+<div id="header">
+<a class="logo sprite" href="http://www.folha.uol.com.br">&nbsp;</a>
+
+<div class="services">
+<div id="weather">
+<div class="information"><span class="date">17 de outubro de 2011 - 10:05</span>
+<a href="http://tempo.folha.com.br" class="moreCity">PREVISÃO DO TEMPO</a></div>
+<div class="temperature">&nbsp;
+</div>
+
+</div><form action="http://search.folha.com.br" id="search" method="get"><div><input name="q" type="text" value=""> <select name="site"id="selectSite"><option value="">&nbsp;</option><option value="online">Folha.com</option><option value="jornal">Folha de S.Paulo</option><option value="online/guia">Guia Folha</option></select> <input class="submit" name="submit" type="submit" value="Buscar"></div></form></div>
+<ul class="classified_nav">
+<li><a href="http://classificados.folha.com.br/" class="first">Classificados</a></li>
+<li><a href="http://classificados.folha.com.br/veiculos">Veículos</a></li>
+<li><a href="http://classificados.folha.com.br/imoveis">Imóveis</a></li>
+<li><a href="http://classificados.folha.com.br/empregos">Empregos</a></li>
+<li><a href="http://classificados.folha.com.br/negocios">Negócios</a></li>
+</ul><div class="flags">
+	<ul class="flags_nav">
+		<li><a href="http://www1.folha.uol.com.br/internacional/en/"><span class="sprite en">&nbsp;</span>ENGLISH</a></li>
+		<li><a href="http://www1.folha.uol.com.br/internacional/es/"><span class="sprite es">&nbsp;</span>ESPAÑOL</a></li>
+	</ul>
+</div>
+<div id="top_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a>  <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www1.folha.uol.com.br/bichos/">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://f5.folha.uol.com.br/">Celebridades</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+
+<!--//--></div>
+
+<!-- // -->
+</div>
+<div id="masthead">
+<div class="canvas">&nbsp;</div>
+<a href="./" class="sprite section busca"></a>
+</div>
+
+<div id="articleNew" class="double_column">
+<!--FORM-->
+<form action="http://search.folha.com.br/search" method="get" name="searchLocal" id="searchLocal">
+<div class="search">
+<label for="qLocal" class="qLocal">Procurar por</label> <input type="text" name="q" id="qLocal" size="66" value="bovespa">
+<input type="submit" value="Buscar" class="inputButton">
+</div>
+
+<div class="detailedSearch">
+<label for="selectSiteLocal" class="selectSiteLocal">Seção</label>
+<select name="site" id="selectSiteLocal">
+<option value="">&nbsp;</option>
+<option selected value="online">Folha.com</option>
+<option value="jornal">Folha de S.Paulo</option>
+<option value="online/ambiente">Folha.com - Ambiente</option>
+<option value="online/bbc">Folha.com - BBC</option>
+<option value="online/bichos">Folha.com - Bichos</option>
+<option value="online/brasil">Folha.com - Poder</option>
+<option value="online/ciencia">Folha.com - Ciência</option>
+<option value="online/comida">Folha.com - Comida</option>
+<option value="online/cotidiano">Folha.com - Cotidiano</option>
+<option value="online/dinheiro">Folha.com - Mercado</option>
+<option value="online/dw">Folha.com - DW</option>
+<option value="online/educacao">Folha.com - Saber</option>
+<option value="online/equilibrio">Folha.com - Equilíbrio e Saúde</option>
+<option value="online/esporte">Folha.com - Esporte</option>
+<option value="online/ilustrada">Folha.com - Ilustrada</option>
+<option value="online/ilustrissima">Folha.com - Ilustríssima</option>
+<option value="online/informatica">Folha.com - Tec</option>
+<option value="online/mundo">Folha.com - Mundo</option>
+<option value="online/folhateen">Folha.com - Folhateen</option>
+<option value="online/folhinha">Folha.com - Folhinha</option>
+<option value="online/saopaulo">Folha.com - São Paulo</option>
+<option value="online/pensata">Folha.com - Colunas</option>
+<option value="online/podcasts">Folha.com - Podcasts</option>
+<option value="online/turismo">Folha.com - Turismo</option>
+<option value="online/videocasts">Folha.com - Videocasts</option>
+<option value="online/livrariadafolha">Livraria da Folha</option>
+<option value="online/publifolha">Publifolha</option>
+<option value="online/guia">Guia Folha</option>
+<option value="agora">Agora</option>
+<option value="online/folha90anos">Folha 90 Anos</option>
+<option value="classificados">Classificados</option>
+<option value="classificados/empregos">Classificados - Empregos</option>
+<option value="classificados/imoveis">Classificados - Imóveis</option>
+<option value="classificados/negocios">Classificados - Negócios</option>
+<option value="classificados/veiculos">Classificados - Veículos</option>
+<option value="f5">F5</option>
+</select>
+<label for="sd" class="sd">De</label>
+<input type="text" id="sd" name="sd" size="14" maxlength="12" value="">
+<label for="ed" class="ed">até</label>
+<input type="text" id="ed" name="ed" size="14" maxlength="12" value="">
+</div>
+</form>
+<!--/FORM-->
+
+
+
+<!--CONTEXTUAL_ADS-->
+<div id="contextualAdsSearch"><p class="adsKicker">PUBLICIDADE</p>
+<div class="contextualAds">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg151SoZamwr%2Dqc7zMTeuEwF8axca598JoBpV7H9AawUJCDe1%2DbKLJmMJ8T%2Dhn5xiBkP%2DQ%5FKUQKvr5nvqPFQ2NQVeJGur4yt2awIk1M6ioXdJCh%5FMa%5FrXknINPNXoGZWm32eqOgq7BId74P2gav4IGxB2PjqktzM60wOEZE77b2FF%5F7Q2FLMlbuek%5F0J7OIZ4JPrZUetuR5lKXBOk1ucokw%2DCkbhAiACqh524N2V%5FzIEN7t%5FHAeokXuLPyhI6QYf38mN5IOhCepqslvV3WmGjMnJJ6Bj%2DakYNpsggJSq3qMW3Q3lRz8P%2Dw3rC0ap8M9m3zX52dGnnhMBp2fVMgCBvdARbTJ2c%2D4xqDZcQEfMm4q2X%5FMPbGPRlvb1IXvpq5OdBX7gzp%5Fgo%2E"><b>Bovespa</b></a>Investir em Ações Ficou Mais Fácil. Conheça a Wintrade. Faça um Teste.</p></td>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14VSnJamwryqfbrKSeCCwl8Egszv%5F8psDJl9GtVc82Q8De18aqrGmcd7Se1m%2DF%2DNwPaT%5FKARLfL5mPmLEguIQVCJG%2DfpjdLJxYg5M6moXdQfsYRzy%2D7rn4BHO3YF1laBYpKzmO3MNoe4Mn1C%5FplwlV6U%5FPJtxMu2wuMaEbPOiQN1qQOAaI1Vv60hhcy3LZsMSLogC9jt5lPkZs0TxtwloN2MPyMRKSrR4RwI2V6Wez15p7DMeowXuL35hI6cbvWsyNQMNALGt7Qy%5Fk%5FD0WetjJJ7Bkqg375YlkhVHKaqP2aF2WR96sGcz52TdIB173SiQdqIT3z1dxMhxHFIEa7vOEOPZ2w89E%5FBMqUBMfmXsi6%5FFuDPACExM14AzuOE">Rastreador de Ações do <b>Bovespa</b></a>Rastreador automático de candlestick, suporte e resistência, figuras...</p></td>
+</tr>
+<tr>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14BShZamwryqc7XKT%2DeGxVgNgszv%5F8xnD5B8FtRb8nB7ALxyb6DCksx%2DSuxu7w7GnK%2DZ%2DqcTLPL42M66IQ%2DLQFSJGer5yt2awI41P6qgUNdCh%2D8a%5FrXknIFJOHkGYWez1eOA3uPNINb5KS8K84wLzQvqpbIy%2D%5F%2DRwOYeFbrQ3Fduqg3Zc8RQpLZ408HLLZp9TrNQfdHs5yfiBeky3Y0mne30DlwyGA6j5RwJ2V7zICYgrKjLYo4PuqvwkoeGaOf6iogKZhbMsqEgqE%2DAmCuF0LomLmKyuZEPnV8CXfqrbWyC1FN%2Dx%5Fyd47GYRpQ%2D4ib%2DDcHRASCvbEFtLR%5FJZpCqMVXIdCN90ljGQ9IGQfDm9yKoUfiLDDZ2b1Ig3%2DM%2E">Invista na Bolsa</a>Opere no mercado financeiro com segurança. Acesse e abra sua conta!</p></td>
+<td><p><a href="http://rc10.overture.com/d/sr/?xargs=15KPjg14VSn5amwryqdb%5FATuqHwl4Lgszv%5F8puDZN7F9Vc82Q8De19aKDDk8J%2DSe1m%2DF%2DNwPeX9a4XKff%5Fn%5FyKFAmOQ1GMGOTpjdLJzIk9M66kX01xv%2DwhxentmoBGNXwDOlaBYpKzn%2DnMNoe4Mn9O%5FplwlV6U%5FPNpwcewze8YE7zOiQN1qQOAaI1Vv60hhcy3LZsMSLogC9jt5lPkZs0TxtwloN2MPyMRKSrR4RwI2V6Wez15p7DMeowXuL35hI6cbvWsyNQMNALGt7Qy%5Fk%5FD0WetjJJ7Bkqg375YlkhVHKaqP2aF2WR96sGcz52TdIB173SiQdqIT3zzdxMhxHFCEa7pKgScZFF6oy7AM6V%5FOcSv7HL3DbCQXC0mQ2Mx">Aprenda a Operar Forex de Maneira Responsável.</a>Gerencie Risco, Capital, e Controle Suas Emoções</p></td>
+</tr>
+</table>
+</div>
+</div>
+<!--/CONTEXTUAL_ADS-->
+
+<!--BEST_BETS-->
+<h2 class="localSearchTarja">notícias recomendadas</h2>
+<p>
+<b><a href="http://www1.folha.uol.com.br/folha/dinheiro/ult91u116800.shtml">Entenda o Ibovespa</a></b><br>
+O Ibovespa, que corresponde a mais de 90% do volume financeiro diário da Bolsa de Valores de São Paulo, é o principal índice do mercado de ações do país.</p>
+<p class="localSearchNavigation">
+<!--/BEST_BETS-->
+
+<!--RESULTSET-->
+<h2 class="localSearchTarja">resultados <span>(1 - 25 de 55.212)</span></h2>
+<p>
+<b>1.</b> <a href="http://www1.folha.uol.com.br/mercado/990889-horario-de-verao-faz-bmfbovespa-abrir-mais-tarde.shtml">Folha.com - Mercado - Horário de verão faz BM&FBovespa abrir mais tarde - 17/10/2011</a><br>
+... horários de funcionamento do mercado de capitais brasileiro a partir desta segunda-feira. O pregão regular da <b>Bovespa</b> (Bolsa de Valores de São Paulo) passa a funcionar das 11h (hora  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...fbovespa-abrir-mais-tarde.shtml</span>
+</p>
+<p>
+<b>2.</b> <a href="http://www1.folha.uol.com.br/mercado/990959-conselho-da-vale-aprova-remuneracao-minima-aos-acionistas.shtml">Folha.com - Mercado - Conselho da Vale aprova remuneração mínima aos acionistas - 14/10/2011</a><br>
+... remuneração ao acionista. A "record date" para as ações de emissão da Vale negociadas na BM&F <b>Bovespa</b> é o dia 14 de outubro de 2011, enquanto para os ADRs negociados na Bolsa de  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...cao-minima-aos-acionistas.shtml</span>
+</p>
+<p>
+<b>3.</b> <a href="http://www1.folha.uol.com.br/mercado/990884-bovespa-abre-mais-tarde-a-partir-desta-segunda.shtml">Folha.com - Mercado - <b>Bovespa</b> abre mais tarde a partir desta segunda - 14/10/2011</a><br>
+... 14/10/2011 18h47 <b>Bovespa</b> abre mais tarde a partir desta segunda DE SÃO PAULO O início do horário de verão vai alterar os horários de funcionamento do mercado de capitais brasileiro a  ... horários de funcionamento do mercado de capitais brasileiro a partir desta segunda-feira. O pregão regular da <b>Bovespa</b> (Bolsa de Valores de São Paulo) passa a funcionar das 11h (hora  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...de-a-partir-desta-segunda.shtml</span>
+</p>
+<p>
+<b>4.</b> <a href="http://www1.folha.uol.com.br/mercado/990741-dolar-completa-8-dias-de-baixa-e-volta-para-r-173.shtml">Folha.com - Mercado - Dólar completa 8 dias de baixa e volta para R$ 1,73 - 14/10/2011</a><br>
+... Inflação na zona do euro é a maior desde 2008 Entenda por que o dólar ficou mais caro Ainda operando, a <b>Bovespa</b> registra ganhos de 0,70%, aos 54.981 pontos. O giro financeiro é  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...-baixa-e-volta-para-r-173.shtml</span>
+</p>
+<p>
+<b>5.</b> <a href="http://www1.folha.uol.com.br/esporte/990729-brasileira-e-cortada-por-doping-e-deve-perder-recorde.shtml">Folha.com - Esporte - Brasileira é cortada por doping e deve perder recorde - 14/10/2011</a><br>
+... DEMITIDA Após o anúncio da CBAt, Simone teve também seu contrato rescindido com o Clube de Atletismo BM&F/<b>Bovespa</b>. "O Clube de Atletismo BM&;F/<b>Bovespa</b> informa que segue  ... <br>
+<span class="url">http://www1.folha.uol.com.br/es...ing-e-deve-perder-recorde.shtml</span>
+</p>
+<p>
+<b>6.</b> <a href="http://www1.folha.uol.com.br/mercado/990647-bovespa-sobe-048-e-ensaia-firmar-alta-dolar-bate-r-173.shtml">Folha.com - Mercado - <b>Bovespa</b> sobe 0,48% e ensaia firmar alta; dólar bate R$ 1,73 - 14/10/2011</a><br>
+... 14/10/2011 14h23 <b>Bovespa</b> sobe 0,48% e ensaia firmar alta; dólar bate R$ 1,73 DE SÃO PAULO O mercado brasileiro de ações sustenta um ganho moderado na rodada de negócios desta sexta- ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...mar-alta-dolar-bate-r-173.shtml</span>
+</p>
+<p>
+<b>7.</b> <a href="http://www1.folha.uol.com.br/mercado/990598-instavel-bovespa-tem-alta-modesta-dolar-marca-r-174.shtml">Folha.com - Mercado - Instável, <b>Bovespa</b> tem alta modesta; dólar marca R$ 1,74 - 14/10/2011</a><br>
+... 14/10/2011 12h21 Instável, <b>Bovespa</b> tem alta modesta; dólar marca R$ 1,74 DE SÃO PAULO Enquanto as Bolsas europeias e americanas sobem mais de 1%, a brasileira <b>Bovespa</b> (Bolsa de  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...modesta-dolar-marca-r-174.shtml</span>
+</p>
+<p>
+<b>8.</b> <a href="http://www1.folha.uol.com.br/mercado/990548-bovespa-avanca-050-dolar-recua-para-r-173.shtml">Folha.com - Mercado - <b>Bovespa</b> avança 0,50%; dólar recua para R$ 1,73 - 14/10/2011</a><br>
+... 14/10/2011 10h25 <b>Bovespa</b> avança 0,50%; dólar recua para R$ 1,73 DE SÃO PAULO Investidores fazem o balanço entre notícias positivas e negativas na manhã desta sexta-feira, e pendem  ... e pendem para o primeiro lado: enquanto as principais Bolsas europeias sobem mais de 1%, a brasileira <b>Bovespa</b> (Bolsa de Valores de São Paulo) também oscila em terreno positivo.  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...50-dolar-recua-para-r-173.shtml</span>
+</p>
+<p>
+<b>9.</b> <a href="http://www1.folha.uol.com.br/mercado/990197-bovespa-emenda-terceiro-dia-de-ganhos-e-sobe-14-no-fechamento.shtml">Folha.com - Mercado - <b>Bovespa</b> emenda terceiro dia de ganhos e sobe 1,4% no fechamento - 13/10/2011</a><br>
+... 13/10/2011 17h49 <b>Bovespa</b> emenda terceiro dia de ganhos e sobe 1,4% no fechamento EPAMINONDAS NETO DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) reiniciou a semana se  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...s-e-sobe-14-no-fechamento.shtml</span>
+</p>
+<p>
+<b>10.</b> <a href="http://www1.folha.uol.com.br/mercado/990161-em-setimo-dia-de-baixa-dolar-fecha-a-r-175-bovespa-sobe-14.shtml">Folha.com - Mercado - Em sétimo dia de baixa, dólar fecha a R$ 1,75; <b>Bovespa</b> sobe 1,4% - 13/10/2011</a><br>
+... 13/10/2011 16h56 Em sétimo dia de baixa, dólar fecha a R$ 1,75; <b>Bovespa</b> sobe 1,4% DE SÃO PAULO Atualizado às 19h28 . Em seu sétimo dia consecutivo de baixa, a taxa de câmbio  ... por R$ 1,860 (baixa de 0,53%) e comprado por R$ 1,680 nas casas de câmbio paulistas. No fechamento, a <b>Bovespa</b> apresentou alta de 1,42%, aos 54.601 pontos. O giro financeiro foi  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...a-a-r-175-bovespa-sobe-14.shtml</span>
+</p>
+<p>
+<b>11.</b> <a href="http://www1.folha.uol.com.br/mercado/990067-bovespa-esboca-recuperacao-dolar-recua-para-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> esboça recuperação; dólar recua para R$ 1,74 - 13/10/2011</a><br>
+... 13/10/2011 14h14 <b>Bovespa</b> esboça recuperação; dólar recua para R$ 1,74 DE SÃO PAULO O mercado brasileiro de ações mostra volatilidade, e ensaia uma recuperação na jornada desta quinta- ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...ao-dolar-recua-para-r-174.shtml</span>
+</p>
+<p>
+<b>12.</b> <a href="http://www1.folha.uol.com.br/mercado/990014-bovespa-cai-09-com-perdas-nos-eua-e-europa-dolar-vale-r-175.shtml">Folha.com - Mercado - <b>Bovespa</b> cai 0,9% com perdas nos EUA e Europa; dólar vale R$ 1,75 - 13/10/2011</a><br>
+... 13/10/2011 12h20 <b>Bovespa</b> cai 0,9% com perdas nos EUA e Europa; dólar vale R$ 1,75 DE SÃO PAULO O mercado brasileiro de ações sustentou por pouco tempo o viés de recuperação na  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...e-europa-dolar-vale-r-175.shtml</span>
+</p>
+<p>
+<b>13.</b> <a href="http://www1.folha.uol.com.br/mercado/989755-bovespa-ganha-080-na-abertura-dolar-cede-para-r-175.shtml">Folha.com - Mercado - <b>Bovespa</b> ganha 0,80% na abertura; dólar cede para R$ 1,75 - 13/10/2011</a><br>
+... 13/10/2011 10h18 <b>Bovespa</b> ganha 0,80% na abertura; dólar cede para R$ 1,75 DE SÃO PAULO As ações brasileiras valorizam desde os primeiros negócios desta quinta-feira, na contramão do  ... que reflete os preços dos papéis mais movimentados, sobe 0,80%, aos 54.267 pontos. Na terça-feira, a <b>Bovespa</b> fechou em alta de 1%. O dólar comercial é negociado por R$ 1,750 nas  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...ura-dolar-cede-para-r-175.shtml</span>
+</p>
+<p>
+<b>14.</b> <a href="http://www1.folha.uol.com.br/poder/989350-governo-calcula-que-dolar-ira-a-r-2-no-inicio-de-2012.shtml">Folha.com - Poder - Governo calcula que dólar irá a R$ 2 no início de 2012 - 12/10/2011</a><br>
+... UOL, empresa controlada pelo Grupo Folha, que edita a Folha Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% Economistas esperam nova redução na taxa de juros Brasil  ... <br>
+<span class="url">http://www1.folha.uol.com.br/po...a-a-r-2-no-inicio-de-2012.shtml</span>
+</p>
+<p>
+<b>15.</b> <a href="http://www1.folha.uol.com.br/mercado/989125-bovespa-avanca-1-no-fechamento-em-dia-marcado-por-cautela.shtml">Folha.com - Mercado - <b>Bovespa</b> avança 1% no fechamento, em dia marcado por cautela - 11/10/2011</a><br>
+... 11/10/2011 17h47 <b>Bovespa</b> avança 1% no fechamento, em dia marcado por cautela EPAMINONDAS NETO DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) teve um dia de recuperação  ... Eslováquia rejeita ampliar fundo de resgate financeiro europeu Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% Entenda por que o dólar ficou mais caro As Bolsas  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...m-dia-marcado-por-cautela.shtml</span>
+</p>
+<p>
+<b>16.</b> <a href="http://www1.folha.uol.com.br/mercado/989073-dolar-fecha-a-r-175-em-sexto-dia-de-baixa-bovespa-sobe-1.shtml">Folha.com - Mercado - Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% - 11/10/2011</a><br>
+... 11/10/2011 16h39 Dólar fecha a R$ 1,75 em sexto dia de baixa; <b>Bovespa</b> sobe 1% DE SÃO PAULO Atualizado às 17h09 . O dólar comercial foi negociado por R$ 1,759, em baixa de 0, ... vendido por R$ 1,870 (estável) e comprado por R$ 1,690 nas casas de câmbio paulistas. Ainda operando, a <b>Bovespa</b> sobe 1,06%, aos 53.836 pontos. O giro financeiro é de R$ 5,50  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...a-de-baixa-bovespa-sobe-1.shtml</span>
+</p>
+<p>
+<b>17.</b> <a href="http://www1.folha.uol.com.br/mercado/988951-bovespa-esboca-recuperacao-dolar-vale-r-176.shtml">Folha.com - Mercado - <b>Bovespa</b> esboça recuperação; dólar vale R$ 1,76 - 11/10/2011</a><br>
+... 11/10/2011 12h26 <b>Bovespa</b> esboça recuperação; dólar vale R$ 1,76 DE SÃO PAULO A Bolsa de Valores, após uma abertura em tom negativo, ensaia recuperação na jornada de negócios desta  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...uperacao-dolar-vale-r-176.shtml</span>
+</p>
+<p>
+<b>18.</b> <a href="http://www1.folha.uol.com.br/mercado/988862-bovespa-cede-051-na-abertura-dolar-atinge-r-177.shtml">Folha.com - Mercado - <b>Bovespa</b> cede 0,51% na abertura; dólar atinge R$ 1,77 - 11/10/2011</a><br>
+... 11/10/2011 10h15 <b>Bovespa</b> cede 0,51% na abertura; dólar atinge R$ 1,77 DE SÃO PAULO A Bolsa de Valores brasileira opera em terreno negativo desde os primeiros negócios desta terça- ... negócios desta terça-feira. O índice doméstico de ações Ibovespa recua 0,51%, aos 53.000 pontos. Ontem, a <b>Bovespa</b> fechou em forte alta de 3,96%. O dólar comercial é negociado por  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...ertura-dolar-atinge-r-177.shtml</span>
+</p>
+<p>
+<b>19.</b> <a href="http://www1.folha.uol.com.br/mercado/988485-bovespa-registra-maior-alta-em-2-meses-mas-em-dia-de-giro-fraco.shtml">Folha.com - Mercado - <b>Bovespa</b> registra maior alta em 2 meses mas em dia de giro fraco - 10/10/2011</a><br>
+... 10/10/2011 17h28 <b>Bovespa</b> registra maior alta em 2 meses mas em dia de giro fraco EPAMINONDAS NETO DE SÃO PAULO Há dois meses a <b>Bovespa</b> (Bolsa de Valores de São Paulo) não registrava  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...-mas-em-dia-de-giro-fraco.shtml</span>
+</p>
+<p>
+<b>20.</b> <a href="http://www1.folha.uol.com.br/mercado/988434-em-sessao-esvaziada-dolar-alcanca-r-176-bovespa-ganha-29.shtml">Folha.com - Mercado - Em sessão esvaziada, dólar alcança R$ 1,76; <b>Bovespa</b> ganha 2,9% - 10/10/2011</a><br>
+... 10/10/2011 16h31 Em sessão esvaziada, dólar alcança R$ 1,76; <b>Bovespa</b> ganha 2,9% DE SÃO PAULO Atualizado às 17h05 . O dólar comercial (referência para exportações e importações) ... Mercado eleva previsão para inflação em 2012 Entenda por que o dólar ficou mais caro Ainda operando, a <b>Bovespa</b> (Bolsa de Valores de São Paulo) registra ganhos de 2,97%, aos 52.766  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...ca-r-176-bovespa-ganha-29.shtml</span>
+</p>
+<p>
+<b>21.</b> <a href="http://www1.folha.uol.com.br/mercado/988358-acionista-principal-aumenta-oferta-por-acoes-do-uol.shtml">Folha.com - Mercado - Acionista principal aumenta oferta por ações do UOL - 10/10/2011</a><br>
+... fechar o capital da companhia. Fechar o capital de uma empresa significa retirar os papéis em negociação na <b>Bovespa</b> (Bolsa de Valores de São Paulo). A diretoria do UOL também  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...a-oferta-por-acoes-do-uol.shtml</span>
+</p>
+<p>
+<b>22.</b> <a href="http://www1.folha.uol.com.br/mercado/988343-bovespa-avanca-mais-de-3-e-dolar-marca-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> avança mais de 3% e dólar marca R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 13h55 <b>Bovespa</b> avança mais de 3% e dólar marca R$ 1,74 "DE SÃO PAULO A <b>Bovespa</b> (Bolsa de Valores de São Paulo) tem uma sessão de forte alta, de olho nas Bolsas americanas  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...-de-3-e-dolar-marca-r-174.shtml</span>
+</p>
+<p>
+<b>23.</b> <a href="http://www1.folha.uol.com.br/mercado/988359-erramos-bovespa-sobe-22-em-dia-de-poucos-negocios-dolar-bate-r-174.shtml">Folha.com - Mercado - Erramos: <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 12h33 Erramos: <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 DE SÃO PAULO Diferentemente do informado em "<b>Bovespa</b> sobe 2,2% em dia de poucos negócios; ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...negocios-dolar-bate-r-174.shtml</span>
+</p>
+<p>
+<b>24.</b> <a href="http://www1.folha.uol.com.br/mercado/988291-bovespa-sobe-22-em-dia-de-poucos-negocios-dolar-bate-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 11h59 <b>Bovespa</b> sobe 2,2% em dia de poucos negócios; dólar bate R$ 1,74 DE SÃO PAULO Atualizado às 12h21 . A perspectiva de um novo plano europeu anima os investidores na  ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...negocios-dolar-bate-r-174.shtml</span>
+</p>
+<p>
+<b>25.</b> <a href="http://www1.folha.uol.com.br/mercado/988240-bovespa-ganha-150-na-abertura-dolar-vale-r-174.shtml">Folha.com - Mercado - <b>Bovespa</b> ganha 1,50% na abertura; dólar vale R$ 1,74 - 10/10/2011</a><br>
+... 10/10/2011 10h19 <b>Bovespa</b> ganha 1,50% na abertura; dólar vale R$ 1,74 DE SÃO PAULO O mercado brasileiro de ações inicia os negócios desta segunda-feira em terreno positivo, ... Ibovespa, o termômetro dos negócios da Bolsa paulista, avança 1,50%, aos 52.010 pontos. Na sexta-feira, a <b>Bovespa</b> fechou em queda de 2%. O dólar comercial é negociado por R$ 1, ... <br>
+<span class="url">http://www1.folha.uol.com.br/me...abertura-dolar-vale-r-174.shtml</span>
+</p>
+<p>Mais resultados: <b>1</b> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=26">2</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=51">3</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=76">4</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=101">5</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=126">6</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=151">7</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=176">8</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=201">9</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=226">10</a> <a href="http://search.folha.com.br/search?q=bovespa&amp;sr=26">Próximas</a></p><p>Tente a busca por "<b>bovespa</b>" na <a href="http://search.folha.com.br/search?q=bovespa&amp;site=jornal&amp;sr=1">Folha de S.Paulo</a></p>
+<!--/RESULTSET-->
+
+</div>
+
+<div class="spacer">&nbsp;</div>
+<div class="column">
+</div>
+<hr>
+
+<!--noindex-->
+<div id="bottom_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a>  <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www1.folha.uol.com.br/bichos/">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://f5.folha.uol.com.br/">Celebridades</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+
+<!--//--></div>
+
+<p id="about_us"><a href="http://www1.folha.uol.com.br/institucional/">Sobre a Folha</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/expediente/">Expediente</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/falecomagente/">Fale Conosco</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/mapa/">Mapa do Site</a> | <a href="http://www1.folha.uol.com.br/folha/ombudsman/">Ombudsman</a> | <a href="http://www1.folha.uol.com.br/erramos/">Erramos</a> <br> <a href="http://atendefolha.folha.com.br/">Atendimento ao Assinante</a> | <a href="http://clubefolha.folha.com.br/">ClubeFolha</a> | <a href="http://publifolha.folha.com.br/">PubliFolha</a> | <a href="http://bd.folha.uol.com.br/">Banco de Dados</a> | <a href="http://datafolha.folha.uol.com.br/">Datafolha</a> | <a href="http://www.folhapress.com.br/">FolhaPress</a> | <a href="http://www1.folha.uol.com.br/folha/treinamento/">Treinamento</a> | <a href="http://www1.folha.uol.com.br/folha/trabalhe/vagas.html">Trabalhe na Folha</a> | <a href="http://www.publicidade.folha.com.br/">Publicidade</a></p>
+<p id="copyright">Copyright Folha.com. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicaçao, eletrônico ou impresso, sem autorização escrita da Folha.com.</p>
+</div>
+
+</div>
+
+<!--PUBLICIDADE-->
+<script type="text/javascript">folha.ads.clean = $.noop;</script>
+
+<div id="ad-728x90-1-content">
+<script type="text/javascript">folha.advertising.get('728x90-1');</script>
+</div>
+
+<div id="ad-220x90-1-content">
+<script type="text/javascript">folha.advertising.get('220x90-1');</script>
+</div>
+
+<!--/PUBLICIDADE-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6263320-52");
+pageTracker._trackPageview();
+var pageTracker = _gat._getTracker("UA-6263320-25");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture.js"></script>
+<script type="text/javascript">
+omniture.meta['site'] = location.href.match(/site/) ? location.href.replace(/^.+site=(.+?)(&.+|$)/, '$1') : 'home';
+omniture.meta['query'] = $('#qLocal').val() || 'null';
+</script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture-data.js"></script>
+<script type="text/javascript" src="http://me.jsuol.com/omtr/folhacom.js"></script>
+
+<!--/noindex-->
+
+<!--
+-->
+
+</body>
+</html>
+
